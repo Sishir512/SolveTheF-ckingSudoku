@@ -104,7 +104,7 @@ int main(){
                        {0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0}};
                        
     if(Solve(board)) ShowBoard(board);
-    else std::cout << "Canot be solved ";
+    else std::cout << "Cannot be solved ";
     
 
 
